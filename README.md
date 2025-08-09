@@ -6,3 +6,5 @@ A company is facing difficulties in tracking sales across regions due to overloa
 
 ## Purpose:
 To create a dynamic dashboard using Power BI that tracks key sales metrics such as revenue, quantity, and regional breakdowns. The goal is to streamline sales tracking, reduce manual work, and provide real-time, digestible insights for better decision-making. The dashboard will evolve through stakeholder feedback to ensure continuous improvement.
+
+## Project Planning Using AIMS Grid:
