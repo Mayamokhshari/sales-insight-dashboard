@@ -9,7 +9,7 @@ To create a dynamic dashboard using Power BI that tracks key sales metrics such 
 
 ## Project Planning Using AIMS Grid:
 
-### What is AIMS Grid
+### What is AIMS Grid?
 AIMS Grid is a project management tool designed to help organize and prioritize the key aspects of a project. It consists of four main components:
 
     Purpose: Define the core objective or problem to solve.
